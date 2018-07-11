@@ -26,5 +26,5 @@ function preserveDecimal(a) {
 return (a);
 }
 function parceDecimal(a) {
-return (`a`)
+return String.
 }
