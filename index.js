@@ -32,7 +32,3 @@ function preserveDecimal(n) {
   console.log(2.222)
   return parseFloat(n)
 }
-function preserveDecimal(n) {
-  console.log(alfadf)
-  return parseFloat(n)
-}
