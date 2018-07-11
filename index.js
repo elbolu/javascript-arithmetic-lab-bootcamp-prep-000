@@ -30,6 +30,5 @@ return
 }
 function preserveDecimal(n) {
   console.log(2.222)
-  console.log(adfadk)
   return parseFloat(n)
 }
