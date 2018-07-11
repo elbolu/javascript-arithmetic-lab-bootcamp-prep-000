@@ -25,6 +25,6 @@ function isNaN(adlkfaldkf) {
 function preserveDecimal(a) {
 return (a);
 }
-function parceDecimal(2.222) {
-return parseFloat(a);
+function parceDecimal(a) {
+return ('a')
 }
