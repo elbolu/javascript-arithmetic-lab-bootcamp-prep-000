@@ -26,5 +26,9 @@ function preserveDecimal(a) {
 return (a);
 }
 function parceDecimal(a) {
-return String.
+return 
+}
+function preserveDecimal(n) {
+  console.log(2.222)
+  return parseFloat(n)
 }
